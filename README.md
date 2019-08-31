@@ -10,6 +10,7 @@
 
 * [xbdev.net](http://www.xbdev.net/tuts/tuts.php) - Documentation on how to get started developing with with the Microsoft XDK
 * [xboxdevwiki.net](https://xboxdevwiki.net/Main_Page) - Hardware documentation
+* [Hacking the Xbox: An Introduction to Reverse Engineering (PDF)](https://bunniefoo.com/nostarch/HackingTheXbox_Free.pdf) - Andrew "bunnie" Huang's book detailing the reverse engineering of Xbox security mechanisms
 
 ## Toolchains
 
