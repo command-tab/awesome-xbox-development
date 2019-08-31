@@ -3,6 +3,8 @@
 ## Community
 
 * [XboxDev](https://discord.gg/WxJPPyz) - Xbox development and emulator development on Discord
+* [CXBX-Reloaded](https://discord.gg/26Xjx23) - Xbox emulation chat on Discord, particularly related to Cxbx-Reloaded
+* [Xbox Homebrew](https://discord.gg/gzAxSeT) - Xbox homebrew chat on Discord
 
 ## Documentation
 
