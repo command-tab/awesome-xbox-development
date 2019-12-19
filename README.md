@@ -1,5 +1,15 @@
 # Awesome Xbox Development
 
+## Contents
+
+* [Community](#community)
+* [Documentation](#documentation)
+* [Toolchains](#toolchains)
+* [Emulators](#emulators)
+* [Tools and Libraries](#tools-and-libraries)
+    * [Development Tools](#development-tools)
+    * [Reverse Engineering](#reverse-engineering)
+
 ## Community
 
 * [XboxDev](https://discord.gg/WxJPPyz) - Xbox development and emulator development on Discord
@@ -27,4 +37,10 @@
 
 ## Tools and Libraries
 
+### Development Tools
+
 * [XboxDev](https://github.com/XboxDev) -  A GitHub organization hosting a collection of tools, firmware, and some reference material
+
+### Reverse Engineering
+
+* [dump-dvd-kit](https://github.com/XboxDev/dump-dvd-kit) - A tool to dump the ROM of the Xbox DVD Movie Playback Kit dongle
