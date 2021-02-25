@@ -40,6 +40,7 @@
 ### Development Tools
 
 * [XboxDev](https://github.com/XboxDev) -  A GitHub organization hosting a collection of tools, firmware, and some reference material
+* [XBEpy](https://github.com/LoveMHz/XBEpy) - A library for viewing, extracting, and validating data inside the Xbox executable file
 
 ### Reverse Engineering
 
