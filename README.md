@@ -43,4 +43,5 @@
 
 ### Reverse Engineering
 
+* [xbox-board-re](https://github.com/LoveMHz/xbox-board-re) - Board level reverse engineering and research
 * [dump-dvd-kit](https://github.com/XboxDev/dump-dvd-kit) - A tool to dump the ROM of the Xbox DVD Movie Playback Kit dongle
